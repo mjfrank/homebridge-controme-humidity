@@ -1,0 +1,30 @@
+{
+    "name": "homebridge-controme-humidity",
+    "version": "1.0",
+    "description": "Homebridge plugin for controme thermostat to add humidity to HomeKit",
+    "license": "MIT",
+    "keywords": [
+        "homebridge-plugin",
+        "HumiditySensor",
+        "controme",
+        "raspberrypi",
+        "homebridge"
+    ],
+    "engines": {
+        "node": ">=8.15.0",
+        "homebridge": ">=0.4.45"
+    },
+    "author": "MJFrank",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mjfrank/homebridge-controme-humidity"
+    },
+    "dependencies": {
+        "request": "^2.34"
+    },
+    "homepage": "https://github.com/mjfrank/homebridge-controme-humidity",
+    "main": "index.js",
+    "scripts": {
+        "test": "homebridge"
+    }
+}
