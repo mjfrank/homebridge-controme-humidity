@@ -3,7 +3,7 @@ Homebridge plugin for controme thermostat to add humidity to HomeKit
 
 ## Configuration
 The following parameters are mandatory:
-```bash
+```json
 "accessories": [
   {
     "accessory": "ContromeThermostat",
@@ -19,7 +19,7 @@ The following parameters are mandatory:
 ```
 
 The optional parameters are as follows:
-```bash
+```json
 "accessories": [
   {
     "pollInterval": 20
