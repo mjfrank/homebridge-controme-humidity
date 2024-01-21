@@ -18,7 +18,7 @@ The following parameters are mandatory:
 ]
 ```
 
-## The optional parameters are as follows:
+The optional parameters are as follows:
 ```bash
 "accessories": [
   {
