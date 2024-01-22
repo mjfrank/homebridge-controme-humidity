@@ -1,8 +1,8 @@
 /**
  * Script file: index.js
  * Based on homebridge-controme-thermostat V4.0.2
- * Created on: Jan 213, 2024
- * Last modified on: Jan 213, 2024
+ * Created on: 2024-01-21
+ * Last modified on: 2024-01-21
  * Version 1.0
  * 
  * Comments:
